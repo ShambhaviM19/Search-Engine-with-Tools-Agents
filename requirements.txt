@@ -2,7 +2,6 @@ streamlit
 langchain
 langchain-community
 duckduckgo-search
-wikipedia-api
 wikipedia
 arxiv
 python-dotenv
