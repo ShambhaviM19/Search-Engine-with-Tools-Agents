@@ -5,3 +5,4 @@ duckduckgo-search
 wikipedia-api
 arxiv
 python-dotenv
+langchain_groq
