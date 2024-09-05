@@ -1,7 +1,8 @@
 streamlit
-langchain_groq
 langchain
-python-dotenv
-langchain_community
+langchain-community-tools
+langchain-groq
+duckduckgo-search
+wikipedia-api
 arxiv
-wikipedia
+python-dotenv
