@@ -1,7 +1,6 @@
 streamlit
 langchain
-langchain-community-tools
-langchain-groq
+langchain-community
 duckduckgo-search
 wikipedia-api
 arxiv
